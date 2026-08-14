@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c ' *)",
+      "Bash(python3 /private/tmp/claude-501/-Users-darrell-Documents-Final-Project-Purwadhika/d1b30efa-ddd6-438f-aad3-57bb7c33fe8a/scratchpad/remove_stray_fe.py)",
+      "Bash(python3 /private/tmp/claude-501/-Users-darrell-Documents-Final-Project-Purwadhika/d1b30efa-ddd6-438f-aad3-57bb7c33fe8a/scratchpad/restore_fe.py)"
+    ]
+  }
+}
